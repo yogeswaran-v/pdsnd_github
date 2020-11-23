@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+Nov 23, 2020
 
 ### Project Title
-Replace the Project Title
+Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+Udacity Nanodegree project
 
 ### Files used
-Include the files used
+bikeshare_2.py
+README.md
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Forked from https://github.com/udacity/pdsnd_github
+
 
