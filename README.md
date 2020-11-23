@@ -5,7 +5,7 @@ Nov 23, 2020
 Bikeshare
 
 ### Description
-Udacity Nanodegree project
+Udacity Nanodegree project to learn git commands
 
 ### Files used
 bikeshare_2.py
