@@ -41,7 +41,6 @@ def load_data(city, month, day):
         df - Pandas DataFrame containing city data filtered by month and day
     """
 
-
     return df
 
 
@@ -53,12 +52,9 @@ def time_stats(df):
 
     # display the most common month
 
-
     # display the most common day of week
 
-
     # display the most common start hour
-
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
@@ -72,14 +68,11 @@ def station_stats(df):
 
     # display most commonly used start station
 
-
     # display most commonly used end station
-
 
     # display most frequent combination of start station and end station trip
 
-
-    print("\nThis took %s seconds." % (time.time() - start_time))
+    print("\nThis took %s seconds to run." % (time.time() - start_time))
     print('-'*40)
 
 
@@ -88,14 +81,14 @@ def trip_duration_stats(df):
 
     print('\nCalculating Trip Duration...\n')
     start_time = time.time()
-
+    
     # display total travel time
 
 
     # display mean travel time
 
 
-    print("\nThis took %s seconds." % (time.time() - start_time))
+    print("\nThis took %s seconds to execute." % (time.time() - start_time))
     print('-'*40)
 
 
